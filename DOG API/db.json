@@ -1,0 +1,36 @@
+{
+    "Detail":[
+        {
+            "image":"https://media-be.chewy.com/wp-content/uploads/2021/05/11162926/German-Shepherd-1358309706-1024x591.jpg",
+            "name":"German Shepherd",
+            "category":"domestic animal",
+            "id":"1",
+            "description":"German Shepherds are medium to large-sized dogs. The breed standard height at the withers is 60–65 cm (24–26 in) for males, and 55–60 cm (22–24 in) for females. German Shepherds can reach sprinting speeds of up to 30 miles per hour. Shepherds are longer than they are tall, with an ideal proportion of 10 to 8+1⁄2."
+
+        },
+        {
+            "image":"https://www.whatagreenlife.com/wp-content/uploads/2023/08/shutterstock_454139074.jpg",
+            "name":"white swiss shepherd",
+            "category":"domestic animal",
+            "id":"2",
+            "description":"The White Swiss Shepherd Dog or Berger Blanc Suisse is a Swiss breed of shepherd dog. It descends from North American White Shepherds imported to Switzerland; the White Shepherd itself descends from white-coloured purebred German Shepherds"
+        },
+        {
+            "image":"https://hips.hearstapps.com/hmg-prod/images/labrador-puppy-royalty-free-image-1626252338.jpg?crop=0.669xw:1.00xh;0.173xw,0&resize=1200:*",
+            "name":"Labrador Retriever",
+            "category":"domestic animal",
+            "id":"3",
+            "description":"Labs are friendly, outgoing, and high-spirited companions who have more than enough affection to go around for a family looking for a medium-to-large dog. The sturdy, well-balanced Labrador Retriever can, depending on the sex, stand from 21.5 to 24.5 inches at the shoulder and weigh between 55 to 80 pounds."
+        },
+        {
+            "image":"https://13630656.rocketcdn.me/wp-content/uploads/2020/01/Golden4.jpg",
+            "name":"golden retriever",
+            "category":"domestic animal",
+            "id":"4",
+            "description":"The Golden Retriever is a sturdy, muscular dog of medium size, famous for the dense, lustrous coat of gold that gives the breed its name. The broad head, with its friendly and intelligent eyes, short ears, and straight muzzle, is a breed hallmark."
+        }
+        
+        
+        
+    ]
+}
